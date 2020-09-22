@@ -21,7 +21,7 @@ describe("My fizzBuzz function", function () {
 
     it("13 should not be divived by 3 nor by 5", function () {
       result = fizzBuzz(13);
-      expect(result).toBe("13");
+      expect(result).toBe(13);
     });
   });
 });
